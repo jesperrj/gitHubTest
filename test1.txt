@@ -3,3 +3,5 @@ This is the first sentence!
 I will definitely not get a conflict here!
 
 This is another sentence.
+
+This fourth sentence was added using a branch!
